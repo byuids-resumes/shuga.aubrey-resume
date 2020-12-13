@@ -3,7 +3,7 @@ layout: cv
 title: Aubrey Shuga's Resume
 ---
 # Aubrey Shuga
-University student working towards BS in Data Science.  Skill in Adobe Creative Suite CC, Microsoft Office, R, Git, and Python.  Innovative, fast-learning, honest, reliable, and hardworking.  Enjoys interacting with peers. Outgoing and friendly, with the ability to work collaboratively as a member of a team as well as a leader.
+University student working towards BS in Data Science.  
 
 <div id="webaddress">
 <a href="shu14006@byui.edu">shu14006@byui.edu</a>
@@ -14,56 +14,78 @@ University student working towards BS in Data Science.  Skill in Adobe Creative 
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
 
-`Expected 2021`
+
+## Education and Skills
+
+`Expected July 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - BS Data Science
 - Statistics Minor
 
+### Skills
+
+- R: tidyverse, trelliscopejs, obdc
+- Python: Pandas, NumPy, Altair, Scikit Learn, SQLite3
+- Google Sheets and Microsoft Excel
+- Git and Version Control
+- Data Cleaning, Wrangling and Visualization
+- Probability/Statistics
+- Visual Communication
+
 
 ## Related Experience
 
-### Research and Assesment Team Lead
 
-`April 2019 - PRESENT`
+
+### Data Science Consultant
+
+`Sept 2020 - Dec 2020`
+__Good2Go Stores__, Consultant through RDBC
+
+- Built interactive dashboard of company sales data using the trelliscopejs package in R
+- Used R tidyverse to clean, aggregate, and visualize transaction data
+- Collected and cleaned additional data to contextualize weekly sales with world events
+- Provided data-driven insights to CFO to determine the next year's budget and sales goals
+
+### Research and Assessment Team Lead
+
+`Sept 2018 - PRESENT`
 __BYU-Idaho Student Support__, Rexburg, ID
 
-- Designed and maintained department dashboard reviewed by university executives
-- Developed semesterly assessment schedule for 15 Student Support programs
-- Designed key success measures and research instruments for each program
-- Conducted focus groups
-- Analyzed survey data and other internal data to determine the health of each program
-- Produced semesterly visual reports
-- Conducted semesterly report meetings with program stakeholders and department director
+- Built dynamic Google Sheets dashboard regularly reviewed by University Vice President in order to make decisions concerning student resources and services
+- Streamlined and coordinated data collection process among 15 campus services
+- Analyzed survey data and other internal data using Excel and Google Sheets to determine the health of the department and drive decisions
+- Conducted semesterly report meetings with department director to review insights and make data-driven decisions
 
 
-### Data Science Consulting Team
+### Project Manager
 
-`September 2020 - December 2020`
-__RBDC__, Consultant
+`Sept 2020 - Dec 2020`
+__Madison High School__, Consultant through RBDC
 
-- Good2go project (need to update this section)
+- Used Python library SQLite3 to query database for use in Pandas
+- Developed and maintained project timeline
+- Coordinated weekly meetings and project tasks with nine other team members
+- Trained beginner-level team members on basics of object-oriented design, git and version control, databases and queries, and code documentation
+
+### Internships
+
+`Jan 2020 - Apr 2020`
+__Solidarity Strategies__, Washington D.C.
+
+- Analyzed Facebook and Twitter data to show effects of social media campaigns on various metrics
+- Produced summary reports in order to make decisions concerning social media campaigns and practices
+- Designed client prospectus and other materials
 
 
 ## Service and Work History
 
-`2017-2018`
-__Peer Mentor__, BYU-Idaho
+`2017-2019`
+__Volunteer Peer Mentor__, BYU-Idaho
 
 
-`2018-2019`
-__Peer-Mentor Coordinator__, BYU-Idaho
-
-### Internships
-
-`January 2020 - April 2020`
-__Solidarity Strategies__, Washington D.C.
-
-- Analyzed weekly social media reach
-- Developed social media campaigns
-- Designed client prospectus and other materials
 
 
 
